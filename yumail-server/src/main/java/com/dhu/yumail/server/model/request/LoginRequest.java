@@ -6,8 +6,6 @@ import java.io.Serializable;
 
 /**
  * 登录请求
- * @author Yupi Li
- * @date 19/03/16
  */
 @Data
 public class LoginRequest implements Serializable {

@@ -24,8 +24,6 @@ import java.util.UUID;
 /**
  * 邮件服务实现类
  *
- * @author Yupi Li
- * @date 19/03/15
  */
 @Service
 public class RemoteMailServiceImpl implements IRemoteMailService {

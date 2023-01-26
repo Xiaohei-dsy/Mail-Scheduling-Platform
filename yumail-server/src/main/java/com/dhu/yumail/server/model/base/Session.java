@@ -10,8 +10,6 @@ import javax.annotation.Resource;
 
 /**
  * 会话状态
- * @author Yupi Li
- * @date 19/03/16
  */
 @Component
 @Data

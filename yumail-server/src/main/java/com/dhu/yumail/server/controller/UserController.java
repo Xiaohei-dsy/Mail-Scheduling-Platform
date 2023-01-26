@@ -11,8 +11,6 @@ import javax.annotation.Resource;
 
 /**
  * 用户控制器
- * @author Yupi Li
- * @date 19/03/16
  */
 @RequestMapping("/users")
 @RestController

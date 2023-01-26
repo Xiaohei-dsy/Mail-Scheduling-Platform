@@ -10,8 +10,6 @@ import javax.annotation.Resource;
 /**
  * 自实现JobFactory
  * 生成可注入依赖的Job
- * @author Yupi Li
- * @date 19/01/21
  */
 @Component
 public class AutowireJobFactory extends AdaptableJobFactory {

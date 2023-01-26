@@ -4,8 +4,6 @@ import com.dhu.yumail.server.model.entity.Source;
 
 /**
  * 来源服务
- * @author Yupi Li
- * @date 2019-04-16 14:55
  */
 public interface ISourceService {
 

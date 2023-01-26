@@ -6,8 +6,6 @@ import java.io.Serializable;
 
 /**
  * 登录信息包装类
- * @author Yupi Li
- * @date 19/03/16
  */
 @Data
 public class LoginInfoVO implements Serializable {

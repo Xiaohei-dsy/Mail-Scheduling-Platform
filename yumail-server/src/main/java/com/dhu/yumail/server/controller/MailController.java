@@ -14,8 +14,6 @@ import javax.annotation.Resource;
 
 /**
  * 邮件控制器
- * @author Yupi Li
- * @date 19/03/15
  */
 @RequestMapping("/mails")
 @RestController

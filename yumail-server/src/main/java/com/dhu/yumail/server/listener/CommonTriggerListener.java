@@ -14,8 +14,6 @@ import java.util.Date;
 
 /**
  * Job监听器
- * @author Yupi Li
- * @date 19/03/19
  */
 @Component
 public class CommonTriggerListener implements TriggerListener {

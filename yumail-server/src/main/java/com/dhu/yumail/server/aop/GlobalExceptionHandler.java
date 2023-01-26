@@ -9,8 +9,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
  * 功能描述：全局异常处理器
- * @author Yupi Li
- * @date 2018/10/29 11:40
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler {

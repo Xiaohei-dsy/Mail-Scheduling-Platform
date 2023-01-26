@@ -4,8 +4,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 日志服务
- * @author Yupi Li
- * @date 19/03/16
  */
 public interface ILogService {
 

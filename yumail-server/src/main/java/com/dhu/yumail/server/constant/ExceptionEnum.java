@@ -2,8 +2,6 @@ package com.dhu.yumail.server.constant;
 
 /**
  * 异常枚举类
- * @author Yupi Li
- * @date 19/01/14
  */
 public enum ExceptionEnum {
 

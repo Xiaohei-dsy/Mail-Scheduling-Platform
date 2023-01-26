@@ -10,8 +10,6 @@ import java.util.Map;
 
 /**
  * Yumail全局容器
- * @author Yupi Li
- * @date 19/03/15
  */
 public class YumailContext {
 

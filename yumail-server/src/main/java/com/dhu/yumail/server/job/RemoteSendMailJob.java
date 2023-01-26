@@ -10,8 +10,6 @@ import java.io.IOException;
 
 /**
  * 测试Job
- * @author Yupi Li
- * @date 19/03/15
  */
 @Component
 

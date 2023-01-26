@@ -7,8 +7,6 @@ import java.util.Date;
 
 /**
  * 邮件模板
- * @author Yupi Li
- * @date 19/04/16
  */
 @Data
 public class MailTemplate implements Serializable {

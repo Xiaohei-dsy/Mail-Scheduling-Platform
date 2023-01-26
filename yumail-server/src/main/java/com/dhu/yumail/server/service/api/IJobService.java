@@ -7,8 +7,6 @@ import java.util.List;
 
 /**
  * 任务服务
- * @author Yupi Li
- * @date 19/03/23
  */
 public interface IJobService {
 

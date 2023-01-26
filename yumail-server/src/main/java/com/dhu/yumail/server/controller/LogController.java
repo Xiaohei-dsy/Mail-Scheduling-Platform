@@ -15,8 +15,6 @@ import java.util.List;
 /**
  * 日志控制器
  *
- * @author Yupi Li
- * @date 19/03/16
  */
 @RequestMapping("/logs")
 @RestController

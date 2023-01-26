@@ -15,8 +15,6 @@ import java.util.Map;
 /**
  * 邮件模板控制器
  *
- * @author Yupi Li
- * @date 19/03/16
  */
 @RequestMapping("/mail-templates")
 @RestController

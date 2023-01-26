@@ -15,8 +15,6 @@ import java.util.Map;
 /**
  * Yumail容器初始化
  *
- * @author Yupi Li
- * @date 19/03/16
  */
 @Component
 public class YumailContextInitListener implements ApplicationListener<ContextRefreshedEvent> {

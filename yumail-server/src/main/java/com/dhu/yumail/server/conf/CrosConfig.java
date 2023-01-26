@@ -10,8 +10,6 @@ import org.springframework.web.filter.CorsFilter;
 
 /**
  * 跨域
- * @author Yupi Li
- * @date 19/01/21
  */
 @Configuration
 public class CrosConfig {

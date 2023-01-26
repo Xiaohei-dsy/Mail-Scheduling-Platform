@@ -13,8 +13,6 @@ import java.util.List;
 /**
  * 调度任务控制器
  *
- * @author Yupi Li
- * @date 19/03/22
  */
 @RequestMapping("/jobs")
 @RestController

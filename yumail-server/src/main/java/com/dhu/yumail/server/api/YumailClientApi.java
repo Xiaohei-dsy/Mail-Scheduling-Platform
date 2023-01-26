@@ -17,8 +17,6 @@ import java.util.Map;
 /**
  * 功能描述：远程调用Yumail Client的接口
  *
- * @author Yupi Li
- * @date 2019/4/20 0:31
  */
 @Component
 public class YumailClientApi {

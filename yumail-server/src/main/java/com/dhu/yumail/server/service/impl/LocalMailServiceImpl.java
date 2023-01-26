@@ -22,8 +22,6 @@ import java.util.UUID;
 /**
  * 本地邮件服务实现类
  *
- * @author Yupi Li
- * @date 19/03/15
  */
 @Service
 public class LocalMailServiceImpl implements ILocalMailService {

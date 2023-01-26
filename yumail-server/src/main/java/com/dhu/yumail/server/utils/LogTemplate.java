@@ -5,8 +5,6 @@ import java.util.Optional;
 
 /**
  * 日志模板
- * @author Yupi Li
- * @date 19/03/19
  */
 public class LogTemplate {
 

@@ -10,8 +10,6 @@ import javax.annotation.Resource;
 
 /**
  * JavaMailSender配置类
- * @author Yupi Li
- * @date 2019-04-16 15:13
  */
 @Configuration
 public class MailSenderConfig {

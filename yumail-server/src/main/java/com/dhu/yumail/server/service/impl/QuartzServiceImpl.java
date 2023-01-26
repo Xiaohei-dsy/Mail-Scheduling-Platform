@@ -19,8 +19,6 @@ import java.util.Map;
 /**
  * Quartz服务实现类
  *
- * @author Yupi Li
- * @date 19/03/15
  */
 @Service
 public class QuartzServiceImpl implements IQuartzService {

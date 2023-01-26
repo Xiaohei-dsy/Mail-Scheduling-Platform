@@ -11,8 +11,6 @@ import javax.annotation.Resource;
 /**
  * Quartz配置类
  * 生成factory和scheduler依赖
- * @author Yupi Li
- * @date 19/01/21
  */
 @Configuration
 public class QuartzConfig {

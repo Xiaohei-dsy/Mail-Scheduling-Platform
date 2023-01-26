@@ -5,8 +5,6 @@ import java.util.Map;
 
 /**
  * Quartz服务
- * @author Yupi Li
- * @date 19/03/15
  */
 public interface IQuartzService {
 

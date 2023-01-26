@@ -2,8 +2,6 @@ package com.dhu.yumail.server.constant;
 
 /**
  * 分页常量
- * @author Yupi Li
- * @date 19/01/17
  */
 public interface PageConstant {
 

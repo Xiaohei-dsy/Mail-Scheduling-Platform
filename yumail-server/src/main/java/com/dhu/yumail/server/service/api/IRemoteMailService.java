@@ -4,8 +4,6 @@ import com.dhu.yumail.server.model.entity.Mail;
 
 /**
  * 邮件服务接口
- * @author Yupi Li
- * @date 19/03/15
  */
 public interface IRemoteMailService {
 

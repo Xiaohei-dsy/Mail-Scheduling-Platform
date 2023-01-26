@@ -8,8 +8,6 @@ import java.util.Collection;
 
 /**
  * 断言
- * @author Yupi Li
- * @date 19/01/14
  */
 public class Assert {
 

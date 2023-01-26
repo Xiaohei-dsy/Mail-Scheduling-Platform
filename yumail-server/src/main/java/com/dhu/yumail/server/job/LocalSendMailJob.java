@@ -12,8 +12,6 @@ import javax.annotation.Resource;
 /**
  * 测试Job
  *
- * @author Yupi Li
- * @date 19/03/15
  */
 @Component
 

@@ -13,8 +13,6 @@ import java.util.Set;
 
 /**
  * 调度源控制器
- * @author Yupi Li
- * @date 19/03/15
  */
 @RequestMapping("/sources")
 @RestController

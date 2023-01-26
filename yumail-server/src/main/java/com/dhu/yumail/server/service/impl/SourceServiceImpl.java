@@ -17,8 +17,6 @@ import java.util.Map;
 /**
  * 调度源服务实现类
  *
- * @author Yupi Li
- * @date 2019-04-16 14:56
  */
 @Service
 public class SourceServiceImpl implements ISourceService {

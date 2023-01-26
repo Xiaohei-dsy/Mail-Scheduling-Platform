@@ -11,8 +11,6 @@ import java.util.UUID;
 
 /**
  * 用户服务实现类
- * @author Yupi Li
- * @date 19/03/16
  */
 @Service
 public class UserServiceImpl implements IUserService {

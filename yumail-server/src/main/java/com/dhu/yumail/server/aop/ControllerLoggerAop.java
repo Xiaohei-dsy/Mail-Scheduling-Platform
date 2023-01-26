@@ -17,8 +17,6 @@ import java.util.Enumeration;
 
 /**
  * 功能描述：全局Controller日志（控制台）
- * @author Yupi Li
- * @date 19/01/16 10:24
  */
 
 @Component

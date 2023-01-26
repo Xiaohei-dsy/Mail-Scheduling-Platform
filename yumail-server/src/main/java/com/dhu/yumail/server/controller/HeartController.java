@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 心跳检测控制器
- * @author Yupi Li
- * @date 19/04/19
  */
 @RestController
 @RequestMapping("/heart")

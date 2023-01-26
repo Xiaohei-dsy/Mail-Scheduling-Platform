@@ -28,8 +28,6 @@ import static java.net.HttpURLConnection.HTTP_OK;
 
 /**
  * HttpClient工具类（连接池）
- * @author Yupi Li
- * @date 19/04/04
  */
 @Service
 public class HttpClientUtils {

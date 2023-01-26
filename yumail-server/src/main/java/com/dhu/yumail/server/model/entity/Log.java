@@ -7,8 +7,6 @@ import java.util.Date;
 
 /**
  * 日志对象
- * @author Yupi Li
- * @date 19/03/16
  */
 @Data
 public class Log implements Serializable {

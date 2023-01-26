@@ -9,8 +9,6 @@ import java.util.Date;
 
 /**
  * 任务包装类
- * @author Yupi Li
- * @date 19/03/22
  */
 @Data
 public class JobVO implements Serializable {

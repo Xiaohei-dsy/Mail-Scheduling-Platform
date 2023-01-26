@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * Yumail客户端属性文件
- * @author Yupi Li
- * @date 2019-04-16 17:33
  */
 @Data
 @Component

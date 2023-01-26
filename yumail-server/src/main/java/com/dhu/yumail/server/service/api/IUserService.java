@@ -6,8 +6,6 @@ import com.dhu.yumail.server.model.vo.LoginInfoVO;
 
 /**
  * 用户服务
- * @author Yupi Li
- * @date 19/03/16
  */
 public interface IUserService {
 

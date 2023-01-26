@@ -6,8 +6,6 @@ import java.util.Date;
 
 /**
  * 日期格式化工具类
- * @author Yupi Li
- * @date 19/03/06
  */
 public class DateFormatter {
 

@@ -20,8 +20,6 @@ import java.net.UnknownHostException;
 
 /**
  * Yumail客户端初始化（接入server）
- * @author Yupi Li
- * @date 19/03/16
  */
 @Component
 public class YumailClientInitListener implements ApplicationListener<ContextRefreshedEvent> {

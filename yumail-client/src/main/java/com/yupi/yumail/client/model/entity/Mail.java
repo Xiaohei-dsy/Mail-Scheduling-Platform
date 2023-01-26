@@ -8,8 +8,6 @@ import java.util.Date;
 
 /**
  * 邮件包装类
- * @author Yupi Li
- * @date 19/03/15
  */
 @Data
 public class Mail implements Serializable {

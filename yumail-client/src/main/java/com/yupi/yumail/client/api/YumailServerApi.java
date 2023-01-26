@@ -17,8 +17,6 @@ import java.io.IOException;
 /**
  * 功能描述：远程调用Yumail Server的接口
  *
- * @author Yupi Li
- * @date 2019/4/20 0:31
  */
 @Component
 public class YumailServerApi {

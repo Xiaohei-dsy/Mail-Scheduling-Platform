@@ -10,8 +10,6 @@ import javax.annotation.Resource;
 /**
  * 功能描述：Yumail Server信息
  *
- * @author Yupi Li
- * @date 2019/4/19 23:58
  */
 @Repository
 @Data

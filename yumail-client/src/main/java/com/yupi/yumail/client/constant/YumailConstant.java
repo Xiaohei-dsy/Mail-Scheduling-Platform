@@ -2,8 +2,6 @@ package com.yupi.yumail.client.constant;
 
 /**
  * Yumail常量
- * @author Yupi Li
- * @date 19/04/19
  */
 public interface YumailConstant {
     /**

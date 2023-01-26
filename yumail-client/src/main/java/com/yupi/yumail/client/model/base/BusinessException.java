@@ -4,8 +4,6 @@ import com.yupi.yumail.client.constant.ExceptionEnum;
 
 /**
  * 自定义异常
- * @author Yupi Li
- * @date 19/01/14
  */
 public class BusinessException extends RuntimeException {
 

@@ -8,8 +8,6 @@ import java.util.Date;
 
 /**
  * 调度源
- * @author Yupi Li
- * @date 19/03/15
  */
 @Data
 @Component

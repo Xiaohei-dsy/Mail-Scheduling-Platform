@@ -8,8 +8,8 @@ yumail:
   # 邮件配置
   mail:
     host: smtp.qq.com
-    username: 592789970@qq.com
-    password: itykedctqtttbcbb
+    username:
+    password:
   # Yumail服务端配置
   server:
     # 接入地址（一定要加协议名）

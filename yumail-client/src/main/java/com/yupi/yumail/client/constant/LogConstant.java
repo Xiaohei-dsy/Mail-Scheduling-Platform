@@ -3,8 +3,6 @@ package com.yupi.yumail.client.constant;
 /**
  * 功能描述：日志常量
  *
- * @author Yupi Li
- * @date 2019/4/20 9:49
  */
 public interface LogConstant {
 

@@ -23,8 +23,6 @@ import java.util.Date;
 /**
  * 邮件服务实现类
  *
- * @author Yupi Li
- * @date 19/03/15
  */
 @Component
 public class YumailClient {

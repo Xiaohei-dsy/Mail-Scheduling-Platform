@@ -3,7 +3,7 @@ spring:
     name: yumail-server
   # redis
   redis:
-    host: 182.61.59.198
+    host: 172.26.26.46
     port: 6379
     database: 0
     password: #
@@ -14,8 +14,8 @@ yumail:
     username: admin
     password: admin
   mail:
-    host: smtp.mxhichina.com
-    username: yumail@liyupi.top
+    host: smtp.qq.com
+    username: 282244952@qq.com
     password: #
 server:
   # 项目端口号
